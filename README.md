@@ -1,4 +1,4 @@
-# Rule application flowcharts for a Big Data Modelling method
+# Rule usage flowcharts for a BDW data modelling method
 
 This repository holds a collection of flowcharts with the recommended steps for applying a set of rules that compose an agile **data modelling method** for Big Data Warehouses. The work is based on a proposal by Santos & Costa (2019) for the general design and implementation of Big Data Warehouses. Full reference to this proposal can be found on:
 ```bash
